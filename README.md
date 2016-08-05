@@ -26,4 +26,5 @@ These data points contain typos and are only as accurate as the data reported on
 Viewing & Editing
 * [Atom](https://atom.io/) text editor + [markdown-mindmap](https://atom.io/packages/markdown-mindmap) atom package (Useful for viewing exported files)
 ![](_img/atom-markdow-mindmap-example.gif)
+
 TYFYC
